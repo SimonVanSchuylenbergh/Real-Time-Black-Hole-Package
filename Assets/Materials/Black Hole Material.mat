@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Black Hole Material
+  m_Shader: {fileID: -6465566751694194690, guid: 69123ca28e8c32f4d893cf08c1f04e6d,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: fabf768d079aa2540a4df5b56be3325e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_0b6cdacf0f0345a19c6277a04d49101d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f07fd4ebe66989046b52be724c193dd5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3b0d5a3a4cc94c949ccf4f3618590a20_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: a3fbdba1359b12d4f9b21af8594f4cf7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_7ef246ca49984f29bf24f2ea575a809d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 37dde46b0d6971d419fa0d629e43d7ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8eb9016c16044a0a815051d623256805_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: f07fd4ebe66989046b52be724c193dd5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_91f39f7f7e4742e08c241bbf4a109a38_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 580c3920f8f9ff4449ccf541f2298933, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9635d001125845f3a1cf6e09321318cb_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 6929312cebcc7b9428912a17ae3ea099, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c47b72af294545f792127dabc46c4f0d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: bff5b9c06b7e0fd4b8807260aa9aaa68, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d7e16502dde24f1b9ec912ec40eda5c0_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 270bff3a8197d044984a0fb7f8102486, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_db7ffdcedc2e469c80013af52f53cb82_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 270bff3a8197d044984a0fb7f8102486, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_fe1809fd12924811ab5d41d95bc1abc8_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 270bff3a8197d044984a0fb7f8102486, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Beaming_Strength: 0.404
+    - _Brightness: -3.6
+    - _Density_Gradient_High: 1
+    - _Density_Gradient_Low: 0.26
+    - _Density_Range_High: 1
+    - _Density_Range_Low: 0.685
+    - _Environment_Brightness: 1
+    - _ISCO_Cutoff_Smoothness: 2.55
+    - _Mass: 1
+    - _Mass_Accretion: 0.0000001
+    - _Outer_Radius: 50
+    - _Outer_Radius_Falloff: 0.1
+    - _Ring_Width: 0.2
+    - _Rotation_Speed: -100
+    - _Temperature_Brightness_Influence: 1
+    - _Temperature_Falloff: 0.75
+    - _Test: 0
+    - _Texture_Scale: 0.05
+    m_Colors: []
+  m_BuildTextureStacks: []

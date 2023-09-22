@@ -1,0 +1,21 @@
+{
+  "name": "com.simonvs.realtimeblackhole",
+  "version": "1.0.0",
+  "displayName": "Real-Time Black Hole",
+  "description": "This is the black hole shader I create in my series of YouTube videos.",
+  "unity": "2022.3",
+  "unityRelease": "4f1",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.8",
+    "com.unity.shadergraph": "14.0.8"
+  },
+  "keywords": [
+    "black hole",
+    "shader"
+  ],
+  "author": {
+    "name": "Simon Van Schuylenbergh",
+    "email": "simon.vs@gmail.com",
+    "url": "https://www.youtube.com/@simonvanschuylenbergh"
+  }
+}
