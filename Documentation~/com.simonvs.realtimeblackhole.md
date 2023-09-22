@@ -10,7 +10,7 @@ This package contains shaders graphs, textures and a material. All of these asse
 
 # Installation Instructions
 
-The shader was developed using URP. Therefore, it is recommended to use this package with a URP project. It is not tested for HDRP. For instructions on installing unity packages, see the offical [Package Manager installation instructions](https://docs.unity3d.com/Manual/upm-ui-install.html).
+The shader was developed using URP. Therefore, it is recommended to use this package with a URP project. It is not tested for HDRP. For instructions on installing unity packages, see the **`README.md`** file, or see the offical [Package Manager installation instructions](https://docs.unity3d.com/Manual/upm-ui-install.html).
 
 
 # Requirements
